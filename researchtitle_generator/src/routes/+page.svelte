@@ -1,2 +1,14 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    import Navbar from "/src/components/Navbar.svelte";
+    import Hero from "/src/components/Hero.svelte";
+    import Generate from "/src/components/Generate.svelte";
+    import Footer from "/src/components/Footer.svelte";
+    
+</script>
+
+<Navbar/>
+<Hero> </Hero>
+<Generate/>
+<Footer></Footer>
+
+
