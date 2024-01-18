@@ -9,6 +9,6 @@
 <Navbar/>
 <Hero> </Hero>
 <Generate/>
-<Footer></Footer>
+
 
 
